@@ -17,15 +17,15 @@ global.autoreadgc = false;
 
 
 //
-global.prefa = ["."];                                    //Default prefix here. you can change if you want.
+global.prefa = ["#"];                                    //Default prefix here. you can change if you want.
 
 
 //
-global.Owner = ["+94772108460", "+94772108460"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94772108460", "+94772108460"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94772108460"];
-global.OwnerName = "KUSHAN";
-global.BotName = "DARK SHAM";
+global.Owner = ["+94785205012"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94785205012"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+94785205012"];
+global.OwnerName = "@VIMU";
+global.BotName = "VIMUKTHI EXE";
 global.packname = "🦋 DARK SHAN 🦋";                             //Do not change.
 global.author = "KUSHAN";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
